@@ -35,7 +35,7 @@ Type each line and press Enter.
 
 ```bash
 # 1. Download the project and go into its folder
-git clone https://github.com/YOUR-USERNAME/tokentrack.git
+git clone https://github.com/Momina1894/tokentrack.git
 cd tokentrack
 
 # 2. Make a private Python space for it (so it can't mess with anything else)
